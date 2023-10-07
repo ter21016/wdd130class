@@ -1,23 +1,16 @@
 body {
-    text-align: center;
-  }
-  
-img {
-    width: 10%;
-    height: 10%;
+  text-align: center;
 }
-nav {
-    background-color: #fca6c9;
-    padding: 10px;
-  }
-p {
-    width: 80%;
-    text-align: center;
+
+footer p {
+  font-size: 20px;
+  margin: 20px auto;
 }
-a {
-    font-size: 1.5em;
+
+nav, footer {
+  background-color: steelblue;
+  color: white;
+  padding: 10px;
 }
-nav {
-    background-color: #fca6c9;
-    padding: 10px;
-  }
+
+

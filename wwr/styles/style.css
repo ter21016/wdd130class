@@ -1,0 +1,62 @@
+container {
+    max-width: 1600px;
+    margin: 0 auto;
+    
+}
+nav a,
+#hero-msg h1,
+#hero-msg h4,
+.button-box,
+main section {
+    text-align: center;
+}
+#background {
+    height: 725px;
+    background-color: #3f2c05;
+}
+
+body {
+    background-color: #dcd1d1; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+
+#hero-img {
+    width: 100%;
+}
+
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+} 
+.icon {
+    width: 80px;
+}
+.book,
+.join {
+    background-color: #e6c685; 
+}
+.logo {
+    width: 10%;
+}
+hero-img {
+    
+    text-align: center;
+
+}
+
+#background {
+    background-color: rgba(211, 224, 202, 0.7); 
+}
+
+.msg {
+    background-color: rgba(20, 30, 13, 0.7); 
+}
+
+footer {
+    background-color: rgba(20, 30, 13, 0.7); 
+}
+
+
+
