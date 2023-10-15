@@ -101,3 +101,7 @@ h2 {
 main section img {
     box-sizing: border-box;
 }
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
+  }
