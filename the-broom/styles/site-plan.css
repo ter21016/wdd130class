@@ -176,3 +176,26 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+ooter {
+  background-color: rgba(60, 79, 218, 0.7); 
+  padding: 25px 50px;
+  color: #eae0d4;
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+ooter p {
+  font-size:  1.2em;
+}
+ooter .social img { 
+  padding-top: 15px;
+}
+ooter a{
+  color: #d8ddc9;
+  text-decoration: none;
+}
+ooter a:hover{
+  color: aqua;
+  text-decoration: underline;
+}
