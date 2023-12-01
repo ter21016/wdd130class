@@ -15,6 +15,46 @@ h1 {
     font-family: Helvetica, sans-serif;
 }
   
+/* styles/index.css (or your preferred CSS file) */
+
+/* Media Card Styles */
+.media-card {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.media-card-img {
+    width: 100%;
+    height: auto;
+}
+
+.media-card-content {
+    padding: 15px;
+}
+
+.media-card-content h3 {
+    margin-bottom: 10px;
+}
+
+.media-card-content p {
+    font-size: 14px;
+    color: #555;
+}
+
+.media-card-content a {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
 
 
 #hero-msg h1, #hero-msg h4 {
