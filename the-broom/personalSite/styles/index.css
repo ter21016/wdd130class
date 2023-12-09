@@ -7,12 +7,12 @@
     --secondary-color: #242e40 ;
     --accent1-color: #b3d6c6;
     --accent2-color: white;
-}
+
 --heading-font: "Merriweather";
 --paragraph-font: Tahoma, Helvetica, sans-serif;
 
 body {
-    font-family: 'Merriweather', Tahoma;
+    font-family: 'Merriweather', Tahoma, sans-serif;
     font-size: 22px;
     background-color: white;
     margin: 0;
@@ -39,7 +39,7 @@ h3, p {
     margin-top: 50px;
     border-radius: 5px;
     text-decoration: none;
-    text-align: center;
+   
 }
 
 .book:hover, .join:hover{
