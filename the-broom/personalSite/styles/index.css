@@ -33,7 +33,7 @@ h3, p {
 
 .book, .join {
   background-color: #5f93cf; /* Adjust button background color */
-  color: black;
+  color: #b3d6c6;
   text-decoration: none;
   font-size: 18px;
   padding: 15px 30px;
@@ -49,7 +49,7 @@ h3, p {
 
 
 #hero-msg h1, #hero-msg h4 {
-    color: rgb(164, 214, 15);
+    color: #5f93cf;
     text-align: center;
 }
 #hero-img {
@@ -173,6 +173,9 @@ header {
 
 }
 
+#services-s h1, h3 {
+    color: #5f93cf;
+}
 #move-out{
     grid-row: 2/3;
     grid-column: 1/2;

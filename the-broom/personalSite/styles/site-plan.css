@@ -181,7 +181,7 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
-ooter {
+footer {
   background-color: rgba(60, 79, 218, 0.7); 
   padding: 25px 50px;
   color: #eae0d4;
@@ -190,17 +190,17 @@ ooter {
   justify-content: space-around;
   align-items: center;
 }
-ooter p {
+footer p {
   font-size:  1.2em;
 }
-ooter .social img { 
+footer .social img { 
   padding-top: 15px;
 }
-ooter a{
+footer a{
   color: #d8ddc9;
   text-decoration: none;
 }
-ooter a:hover{
+footer a:hover{
   color: aqua;
   text-decoration: underline;
 }
