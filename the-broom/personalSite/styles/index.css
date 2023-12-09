@@ -12,7 +12,7 @@
 --paragraph-font: Tahoma, Helvetica, sans-serif;
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Merriweather', Tahoma;
     font-size: 22px;
     background-color: white;
     margin: 0;
@@ -20,8 +20,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Open Sans', sans-serif; /* Adjust heading fonts */
-    color: #2acb32; /* Adjust heading color */
+    font-family: 'Merriweather', Tahoma, sans-serif; /* Adjust heading fonts */
+    color:  var(--headline-color-on-white);
 }
 
 h3, p {
