@@ -122,6 +122,11 @@ main section {
 #servicesh .card-img{
     width: 100%;
 }
+
+.coloro {
+    color: var(--primary-color);
+}
+
 /*-----ABOUT-------*/
 #about{
     grid-template-rows: 1fr 1fr;
