@@ -3,7 +3,7 @@
 
 :root {
     --heading-font: "Merriweather";
-    --paragraph-font: Tahoma, Helvetica, sans-serif;
+    --paragraph-font: Tahoma, sans-serif;
   }
   
   body {
@@ -27,7 +27,7 @@
   --accent2-color: white;
 
   --heading-font: "Merriweather";
-  --paragraph-font: Tahoma, Helvetica, sans-serif;
+  --paragraph-font: Tahoma, sans-serif;
 }
 
 body {
