@@ -2,6 +2,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Tahoma:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
+    --heading-font: "Merriweather";
+    --paragraph-font: Tahoma, Helvetica, sans-serif;
+  }
+  
+  body {
+    font-family: 'Merriweather', Tahoma, sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', Tahoma, sans-serif;
+    color: var(--headline-color-on-white);
+  }
+  
+  h3, p {
+    color: #242e40;
+  }
+  
+:root {
   /* change the values below to your colors from your palette */
   --primary-color: #5f93cf;
   --secondary-color: #242e40;
